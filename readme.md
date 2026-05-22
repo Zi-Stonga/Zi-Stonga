@@ -25,12 +25,10 @@ My work sits at the intersection of **cloud security**, **AI/ML pipelines**, and
 
   ## 🔐 Security engineering
 
-- [`SSTI-Lambda`](https://github.com/Zi-Stonga/SSTI-Lambda) - server-side template injection in Lambda: exploitation and defence
-- [`AWS-S3-Steampipe`](https://github.com/Zi-Stonga/AWS-S3-Steampipe) - S3 security posture analysis using Steampipe SQL
-- [`NAT-Gateways`](https://github.com/Zi-Stonga/NAT-Gateways) - private subnet internet access patterns in AWS VPCs
-- [`IAM-AttachRolePolicy-Priv-Escalation`](https://github.com/Zi-Stonga/IAM-AttachRolePolicy-Priv-Escalation) - targeted deep-dive on the AttachRolePolicy vector
-- [`Encrypt-Decrypt-KMS-Data-Keys`](https://github.com/Zi-Stonga/Encrypt-Decrypt-KMS-Data-Keys) - envelope encryption with AWS KMS data keys
-- [`AWS-IAM-Privilege-Escalation`](https://github.com/Zi-Stonga/AWS-IAM-Privilege-Escalation) - simulating and detecting IAM privilege escalation via `AttachRolePolicy`
+- [`Lambda-SSTI`](https://github.com/Zi-Stonga/Lambda-SSTI) - server-side template injection in Lambda: exploitation and defence
+- [`S3-Steampipe`](https://github.com/Zi-Stonga/S3-Steampipe) - S3 security posture analysis using Steampipe SQL
+- [`AWS-NAT-Gateways`]([https://github.com/Zi-Stonga/NAT-Gateways](https://github.com/Zi-Stonga/AWS-NAT-Gateway)) - private subnet internet access patterns in AWS VPCs
+- [`IAM-AttachRolePolicy-Priv-Escalation`](https://github.com/Zi-Stonga/Attach-Role-Policy-Priv-Escalation) - targeted deep-dive on the AttachRolePolicy vector
 
 <br/>
 
