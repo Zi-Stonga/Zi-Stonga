@@ -27,7 +27,7 @@ My work sits at the intersection of **cloud security**, **AI/ML pipelines**, and
 
 - [`Lambda-SSTI`](https://github.com/Zi-Stonga/Lambda-SSTI) - server-side template injection in Lambda: exploitation and defence
 - [`S3-Steampipe`](https://github.com/Zi-Stonga/S3-Steampipe) - S3 security posture analysis using Steampipe SQL
-- [`AWS-NAT-Gateways`]([https://github.com/Zi-Stonga/NAT-Gateways](https://github.com/Zi-Stonga/AWS-NAT-Gateway)) - private subnet internet access patterns in AWS VPCs
+- [`AWS-NAT-Gateways`](https://github.com/Zi-Stonga/AWS-NAT-Gateway) - private subnet internet access patterns in AWS VPCs
 - [`IAM-AttachRolePolicy-Priv-Escalation`](https://github.com/Zi-Stonga/Attach-Role-Policy-Priv-Escalation) - targeted deep-dive on the AttachRolePolicy vector
 
 <br/>
